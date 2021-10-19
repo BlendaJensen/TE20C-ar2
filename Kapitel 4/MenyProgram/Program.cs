@@ -6,7 +6,7 @@ namespace MenyProgram
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enkelt menyprogramm!");
+            Console.WriteLine("Enkelt menyprogram!");
             
             //skapa en slumpgenerator
             Random tärning = new Random();
